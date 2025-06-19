@@ -1,8 +1,8 @@
 # This file is created by the pre-push script
 class Version:
     comment = "update version.py"
-    hash = "11bac0bd8987ce28465ced77f0b7ea93c364427e"
-    version = "0.0.18"
+    hash = "45ba474d7d5827f7072c84b2498f4d5e8eaaff6d"
+    version = "0.0.19"
 
 if __name__ == "__main__":
     print(Version.version)
